@@ -1,0 +1,15 @@
+************************************
+*                                  *
+* 作者：杨瑞超      使用方法       *
+*                                  *
+************************************
+
+链接列表：http://localhost/learn_link/public/
+
+添加链接：http://localhost/learn_link/public/index.php/index/admin/index.html
+
+本项目仅为学习使用，不可运用在任何商业用途
+
+在使用过程中如遇到问题请联系作者
+
+QQ：782483506
